@@ -22,12 +22,6 @@ sol3 = sol4/2
 la3 = la4/2
 si3 = si4/2
 
-
-
-
-
-
-
 samplingrate = 16000
 t=timevar(1)
 x = seqsin(0, 0.7, sol4, 0.1, fa4s, 0.1, sol4, 0.2, si4, 0.1, do5, 0.1, si4, 0.8, 0, 0.2, fa4s, 0.1, sol4, 0.1, fa4s, 0.2, sol4, 0.1, la4, 0.1, sol4, 0.8, 0, 0.2, fa4s, 0.1, mi4, 0.1, fa4s, 0.2, si4, 0.1, do5, 0.1, si4, 0.8, 0, 0.2, fa4s, 0.1, mi4, 0.1, fa4s, 1.0, 0, 0.7)
